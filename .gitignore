@@ -1,0 +1,17 @@
+# Keil 编译中间产物
+*.OBJ
+*.M51
+*.LST
+*.bak
+SPIKE_SIM
+
+# 排障截图、临时脚本与日志
+*.png
+*.ps1
+*.ahk
+*.zip
+*.txt
+
+# 系统 / 编辑器
+Thumbs.db
+.DS_Store
